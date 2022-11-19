@@ -65,4 +65,4 @@ def card(medicine:str, time):
                     </div>
                   </div>
                 </div>"""
-    return 
+    return card_html
