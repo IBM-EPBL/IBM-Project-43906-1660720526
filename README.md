@@ -10,7 +10,7 @@ ASSIGNMENTS : https://github.com/IBM-EPBL/IBM-Project-43906-1660720526/tree/main
 
 YouTube link : https://youtu.be/2TyYj_3k1hA
 
-
+Google Drive link :  https://drive.google.com/file/d/1AXslAT0gOZ30MPzHhnaQ3lZpvNGUwmGb/view?usp=share_link
 
 Team lead : Nithisha X U
 
