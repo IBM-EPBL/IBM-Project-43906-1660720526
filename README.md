@@ -8,6 +8,10 @@ TEAM ID: PNT2022TMID52021
 
 ASSIGNMENTS : https://github.com/IBM-EPBL/IBM-Project-43906-1660720526/tree/main/assignments
 
+YouTube link : https://youtu.be/2TyYj_3k1hA
+
+
+
 Team lead : Nithisha X U
 
 Team member1 : Abishek A
